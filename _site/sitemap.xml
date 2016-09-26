@@ -5,41 +5,20 @@
     <description>My Personal Stack Problems</description>
     <link>https://agusmakmun.github.io/</link>
     <atom:link href="https://agusmakmun.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2016 11:07:21 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 11:07:21 +0800</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 13:50:06 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 13:50:06 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>GitHub Pages Basics [CF]</title>
-        <description>&lt;p&gt;GitHub Pages 官方文档.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;GitHub Pages:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;什么是GitHub Pages&lt;/li&gt;
-  &lt;li&gt;GitHub Pages的配置与发布&lt;/li&gt;
-  &lt;li&gt;个人、组织和项目网页&lt;/li&gt;
-  &lt;li&gt;使用自动生成器创建网页&lt;/li&gt;
-  &lt;li&gt;使用命令行创建网页&lt;/li&gt;
-  &lt;li&gt;GitHub Pages如何使用Https保证安全&lt;/li&gt;
-  &lt;li&gt;如何取消项目网页&lt;/li&gt;
-  &lt;li&gt;如何取消用户页面&lt;/li&gt;
-  &lt;li&gt;GitHub Pages的深入学习&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;官方链接&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;https://help.github.com/categories/github-pages-basics/&lt;/li&gt;
-&lt;/ul&gt;
-
+        <title>GitHub Pages简介</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Sep 2016 10:43:45 +0800</pubDate>
-        <link>https://agusmakmun.github.io/github%20pages/2016/09/26/get-month-name-cf.html</link>
-        <guid isPermaLink="true">https://agusmakmun.github.io/github%20pages/2016/09/26/get-month-name-cf.html</guid>
+        <pubDate>Mon, 26 Sep 2016 11:59:03 +0800</pubDate>
+        <link>https://agusmakmun.github.io/github%20pages/2016/09/26/what-is-github-pages.html</link>
+        <guid isPermaLink="true">https://agusmakmun.github.io/github%20pages/2016/09/26/what-is-github-pages.html</guid>
         
         
-        <category>GitHub Pages</category>
+        <category>GitHub pages</category>
         
       </item>
     
