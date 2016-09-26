@@ -5,8 +5,8 @@
     <description>My Personal Stack Problems</description>
     <link>https://agusmakmun.github.io/</link>
     <atom:link href="https://agusmakmun.github.io/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2016 14:43:47 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 14:43:47 +0800</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 17:07:42 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 17:07:42 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -16,7 +16,16 @@
 &lt;p&gt;&lt;strong&gt;GitHub Pages:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/what-is-github-pages/&quot;&gt;什么是GitHub Pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://help.github.com/articles/what-is-github-pages/&quot;&gt;什么是GitHub Pages&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+    &lt;p&gt;GitHub Pages 是一个静态网站托管服务.
+ GitHub Pages 是用来为个人、组织、或者直接从GitHub repository	取得的网页项目提供主机服务.
+想了解更多的关于GitHub Pages站点的不同，可以参考&lt;a href=&quot;https://help.github.com/articles/user-organization-and-project-pages/&quot;&gt;[User, Organization, and Project Pages]&lt;/a&gt;.&lt;br /&gt;&lt;/p&gt;
+
+    &lt;p&gt;你可以通过GitHub Pages使用&lt;a href=&quot;https://help.github.com/articles/creating-pages-with-the-automatic-generator/&quot;&gt;[Automatic Page Generator]&lt;/a&gt;网页自动创建功能，
+在线创建和发布网站。如果你更喜欢在本地工作，你可以使用&lt;a href=&quot;https://desktop.github.com/&quot;&gt;[GitHub Desktop]&lt;/a&gt;或者是&lt;a href=&quot;https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/&quot;&gt;[command line]&lt;/a&gt;进行网站的创建.&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/&quot;&gt;GitHub Pages的配置与发布&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/user-organization-and-project-pages/&quot;&gt;个人、组织和项目网页&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/creating-pages-with-the-automatic-generator/&quot;&gt;使用自动生成器创建网页&lt;/a&gt;&lt;/li&gt;
