@@ -1,43 +1,28 @@
 ---
 layout: post
 title:  "GitHub Pages Basics [CF]"
-date:   2016-06-11 03:43:45 +0700
-categories: [python, codefights]
+date:   2016-09-26 09:43:45 +0700
+categories: [GitHub]
 ---
 
-Map the given integer to a month.
+GitHub Pages 官方文档.
 
-**Example:**
+**GitHub Pages:**
 
-* For `mo = 1`, the output should be `getMonthName(mo) = "Jan"`,
-* For `mo = 0`, the output should be `getMonthName(mo) = "invalid month"`.
+* 什么是GitHub Pages 
+* GitHub Pages的配置与发布
+* 个人、组织和项目网页
+* 使用自动生成器创建网页
+* 使用命令行创建网页
+* GitHub Pages如何使用Https保证安全
+* 如何取消项目网页
+* 如何取消用户页面
+* GitHub Pagess的深入学习
 
-**Input/Output**
+**官方链接**
 
-* [time limit] 4000ms (py)
-* [input] integer mo (A non-negative integer).
-* **Constraints:** `0 ≤ mo ≤ 15`.
-* **[output] string**
+* https://help.github.com/categories/github-pages-basics/
 
-A `3`-letter abbreviation of month number `mo` or `"invalid month"` if the month doesn't exist.
-
-Here are abbreviations of all months:
-
-**My Solution:**
-
-```python
-def getMonthName(mo):
-    months = {
-        1: "Jan", 2: "Feb", 3: "Mar", 4:"Apr", 
-        5: "May", 6: "Jun", 7: "Jul", 8:"Aug", 
-        9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec"
-    }
-    if mo in months.keys():
-        return months.get(mo)
-    return "invalid month"
-```
-
-**Result Tests**:
 
 ```python
 >>> getMonthName(1)
