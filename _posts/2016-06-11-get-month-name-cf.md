@@ -2,7 +2,7 @@
 layout: post
 title:  "GitHub Pages Basics [CF]"
 date:   2016-09-26 09:43:45 +0700
-categories: [GitHub]
+categories: [GitHub Pages]
 ---
 
 GitHub Pages 官方文档.
@@ -17,17 +17,10 @@ GitHub Pages 官方文档.
 * GitHub Pages如何使用Https保证安全
 * 如何取消项目网页
 * 如何取消用户页面
-* GitHub Pagess的深入学习
+* GitHub Pages的深入学习
 
 **官方链接**
 
 * https://help.github.com/categories/github-pages-basics/
 
 
-```python
->>> getMonthName(1)
-"Jan"
->>> getMonthName(0)
-"invalid month"
->>>
-```
