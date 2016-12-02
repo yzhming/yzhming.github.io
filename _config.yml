@@ -35,6 +35,8 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
+    - text: Hadoop
+      url: /Hadoop/
     - text: Github
       url: https://github.com/yzhming
     - text: XML Feed
